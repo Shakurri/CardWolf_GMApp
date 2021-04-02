@@ -7,5 +7,5 @@ body{
 }
 .gameContainer{
     width:90vw;
-    height:cals(90vw*1.78);
+    height:calc(90vw*1.78);
 }
