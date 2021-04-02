@@ -1,0 +1,11 @@
+
+
+
+
+body{
+    background-color:gray ;
+}
+.gameContainer{
+    width:90vw;
+    height:cals(90vw*1.78);
+}
